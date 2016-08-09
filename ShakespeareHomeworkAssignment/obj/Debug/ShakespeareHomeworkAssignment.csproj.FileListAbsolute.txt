@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\bin\Debug\ShakespeareHomeworkAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\bin\Debug\ShakespeareHomeworkAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\bin\Debug\ShakespeareHomeworkAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\obj\Debug\ShakespeareHomeworkAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\obj\Debug\ShakespeareHomeworkAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespeareHomeworkAssignment\ShakespeareHomeworkAssignment\obj\Debug\ShakespeareHomeworkAssignment.csprojResolveAssemblyReference.cache
